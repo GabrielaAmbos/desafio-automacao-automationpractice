@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF62F7&width=435&lines=Projeto+de+Automa%C3%A7%C3%A3o+Automation+Practice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DF62F7&width=435&lines=Projeto+de+Automa%C3%A7%C3%A3o+Automation+Practice)](https://git.io/typing-svg)
 
 Projeto de automação no site http://automationpractice.com/ utilizando a linguagem Java e o framework de automação Selenium WebDriver, explorando a funcionalidade 'Comprar um produto'.
 
